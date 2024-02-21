@@ -1,0 +1,17 @@
+:root{
+    --cor_botao: purple;
+    --cor_botao: pink;
+}
+
+body {
+   background-color: mediumslateblue;
+   text-align: center;
+
+}
+h1 {
+    font-size: 150px;
+}
+
+button {
+    margin: 10px 5px
+}
